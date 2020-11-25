@@ -44,7 +44,10 @@ dependencies {
     //Retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.5.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
-    implementation 'com.squareup.okhttp:okhttp:2.7.2'}
+    implementation 'com.squareup.okhttp:okhttp:2.7.2'
+}
+
+apply plugin: 'com.jakewharton.butterknife'
 ```
 
 ## Notes
