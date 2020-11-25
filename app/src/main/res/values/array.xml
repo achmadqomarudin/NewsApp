@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countrysCodes">
+        <item>tr</item>
+        <item>id</item>
+        <item>gb</item>
+        <item>it</item>
+        <item>de</item>
+        <item>fr</item>
+    </string-array>
+
+    <integer-array name="countrysIcons">
+        <item>@drawable/ic_turkey</item>
+        <item>@drawable/ic_indonesia</item>
+        <item>@drawable/ic_united_kingdom</item>
+        <item>@drawable/ic_italy</item>
+        <item>@drawable/ic_germany</item>
+        <item>@drawable/ic_france</item>
+    </integer-array>
+
+    <string-array name="countrys">
+        <item>Turkey</item>
+        <item>Indonesia</item>
+        <item>United Kingdom</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>France</item>
+    </string-array>
+
+</resources>

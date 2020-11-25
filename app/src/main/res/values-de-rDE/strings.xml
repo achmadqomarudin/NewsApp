@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news">Nachrichten</string>
+    <string name="category_technology">Technologie</string>
+    <string name="category_sports">Sport</string>
+    <string name="category_science">Wissenschaft</string>
+    <string name="category_health">Gesundheit</string>
+    <string name="category_entertainment">Unterhaltung</string>
+    <string name="category_business">Geschäft</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Stornieren</string>
+    <string name="news_dialog_info">Weitere Informationen finden Sie auf der Website.</string>
+    <string name="goto_website">Gehen Sie zur Webseite</string>
+    <string name="search_in_everything">Suche in allem…</string>
+</resources>

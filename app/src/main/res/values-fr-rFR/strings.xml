@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News App</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">D\'accord</string>
+    <string name="category_business">Affaires</string>
+    <string name="category_entertainment">Divertissement</string>
+    <string name="category_health">Santé</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Des sports</string>
+    <string name="category_technology">La technologie</string>
+    <string name="news">Nouvelles</string>
+    <string name="news_dialog_info">Allez sur le site Web pour plus de détails.</string>
+    <string name="goto_website">Aller sur un site Internet</string>
+    <string name="search_in_everything">Rechercher dans tout…</string>
+</resources>

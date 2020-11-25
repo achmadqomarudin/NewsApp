@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News App</string>
+    <string name="cancel">Kapat</string>
+    <string name="ok">Tamam</string>
+    <string name="category_business">İş</string>
+    <string name="category_entertainment">Eğlence</string>
+    <string name="category_health">Sağlık</string>
+    <string name="category_science">Bilim</string>
+    <string name="category_sports">Spor</string>
+    <string name="category_technology">Teknoloji</string>
+    <string name="news">Haberler</string>
+    <string name="news_dialog_info">Daha fazla bilgi için Web sitesine gidin.</string>
+    <string name="goto_website">Web sitesine Git</string>
+    <string name="search_in_everything">Her şeyde ara...</string>
+</resources>
