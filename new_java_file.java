@@ -10,4 +10,8 @@ public class Demo{
     {
         a = x;
     }
+    int second(int x)
+    {
+        a = x;
+    }
 }
