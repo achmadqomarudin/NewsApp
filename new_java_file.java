@@ -1,8 +1,8 @@
-class Demo{
+public class Demo{
     int a;
     Demo(int x)
     {
-        a = x;
+        this.a = x;
     }
     int getA()
     {retunr a; }
