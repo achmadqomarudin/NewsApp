@@ -1,18 +1,18 @@
 package com.project.newsapp.model;
 
 public class git2 {
-        String dept;
+        String dep;
 
     public git2(String dept) {
-        this.dept = dept;
+        this.dep = dept;
     }
 
     public String getDept() {
-        return dept;
+        return dep;
     }
 
     public void setDept(String dept) {
-        this.dept = dept;
+        this.dep = dept;
     }
 }
 
